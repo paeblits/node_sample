@@ -1,0 +1,11 @@
+{
+  "name": "mynodejs",
+  "version": "1.0.0",
+  "description": "jenkins course udemy",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm install inherits && mocha"
+  },
+  "author": "Pablo Settecase",
+  "license": "ISC"
+}
